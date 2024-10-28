@@ -1,0 +1,36 @@
+2024-10-23 23:35:35.679 [info] MainController: Starting nvim: /usr/bin/nvim -N --embed --cmd source /home/bobbeh/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.13-universal/runtime/vscode-neovim.vim
+2024-10-23 23:35:35.700 [info] MainController: Nvim info: {
+  logFile: '/home/bobbeh/.local/state/nvim/log',
+  configDir: '/home/bobbeh/.config/nvim',
+  configFile: '/home/bobbeh/.config/nvim/init.lua',
+  nvimVersion: {
+    api_compatible: 0,
+    prerelease: false,
+    major: 0,
+    minor: 10,
+    patch: 2,
+    build: 'v0.10.2',
+    api_level: 12,
+    api_prerelease: false
+  }
+}
+2024-10-23 23:42:02.294 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-html-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 23:42:03.054 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-html-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 23:44:29.408 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-css-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 23:44:31.814 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-html-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 23:49:45.104 [info] MessagesManager: '1 more line; before #6  5 seconds ago\n'
+2024-10-23 23:50:33.176 [info] MessagesManager: '1 change; before #9  4 seconds ago\n'
+2024-10-23 23:50:33.513 [info] MessagesManager: '1 change; before #8  8 seconds ago\n'
+2024-10-23 23:50:34.009 [info] MessagesManager: '1 change; before #7  23 seconds ago\n'
+2024-10-23 23:50:50.107 [info] MessagesManager: '1 change; before #12  2 seconds ago\n'
+2024-10-23 23:51:35.864 [info] MessagesManager: '1 line less; before #18  2 seconds ago\n'
+2024-10-23 23:53:01.592 [info] MessagesManager: '16 changes; before #23  4 seconds ago\n'
+2024-10-23 23:53:48.007 [info] MessagesManager: '1 change; before #28  4 seconds ago\n'
+2024-10-23 23:53:48.350 [info] MessagesManager: '1 more line; before #27  7 seconds ago\n'
+2024-10-23 23:54:30.762 [info] MessagesManager: '2 more lines; before #35  2 seconds ago\n'
+2024-10-23 23:54:34.335 [info] MessagesManager: '1 more line; before #36  2 seconds ago\n'
+2024-10-23 23:55:59.770 [info] MessagesManager: '4 lines yanked\n'
+2024-10-23 23:56:03.880 [info] MessagesManager: '3 more lines\n'
+2024-10-23 23:56:08.196 [info] MessagesManager: '3 more lines\n'
+2024-10-23 23:56:23.435 [info] MessagesManager: '3 lines yanked\n'
+2024-10-23 23:56:34.428 [info] MessagesManager: '2 more lines; before #18  2 seconds ago\n'

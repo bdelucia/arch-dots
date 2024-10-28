@@ -1,0 +1,16 @@
+2024-10-22 04:17:33.276 [info] MainController: Starting nvim: /usr/bin/nvim -N --embed --cmd source /home/bobbeh/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.13-universal/runtime/vscode-neovim.vim
+2024-10-22 04:17:33.276 [info] MainController: Nvim info: {
+  configDir: '/home/bobbeh/.config/nvim',
+  configFile: '/home/bobbeh/.config/nvim/init.lua',
+  nvimVersion: {
+    patch: 2,
+    prerelease: false,
+    api_prerelease: false,
+    major: 0,
+    minor: 10,
+    api_level: 12,
+    build: 'v0.10.2',
+    api_compatible: 0
+  },
+  logFile: '/home/bobbeh/.local/state/nvim/log'
+}

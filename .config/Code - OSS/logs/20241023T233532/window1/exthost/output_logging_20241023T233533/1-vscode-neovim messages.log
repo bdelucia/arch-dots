@@ -1,0 +1,20 @@
+/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-html-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.
+/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-html-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.
+/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-css-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.
+/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-html-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.
+1 more line; before #6  5 seconds ago
+1 change; before #9  4 seconds ago
+1 change; before #8  8 seconds ago
+1 change; before #7  23 seconds ago
+1 change; before #12  2 seconds ago
+1 line less; before #18  2 seconds ago
+16 changes; before #23  4 seconds ago
+1 change; before #28  4 seconds ago
+1 more line; before #27  7 seconds ago
+2 more lines; before #35  2 seconds ago
+1 more line; before #36  2 seconds ago
+4 lines yanked
+3 more lines
+3 more lines
+3 lines yanked
+2 more lines; before #18  2 seconds ago

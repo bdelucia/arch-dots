@@ -1,0 +1,37 @@
+2024-10-23 02:57:33.496 [info] [main] Log level: Info
+2024-10-23 02:57:33.496 [info] [main] Validating found git in: "git"
+2024-10-23 02:57:33.496 [info] [main] Using git "2.47.0" from "git"
+2024-10-23 02:57:33.496 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-23 02:57:33.496 [info] > git rev-parse --show-toplevel [26ms]
+2024-10-23 02:57:33.496 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-10-23 02:57:33.496 [info] [Model][openRepository] Opened repository: /home/bobbeh/codes/BobbehLandingPage
+2024-10-23 02:57:33.496 [info] > git config --get commit.template [7ms]
+2024-10-23 02:57:33.608 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [26ms]
+2024-10-23 02:57:33.608 [info] > git rev-parse --show-toplevel [31ms]
+2024-10-23 02:57:33.624 [info] > git rev-parse --show-toplevel [9ms]
+2024-10-23 02:57:33.661 [info] > git rev-parse --show-toplevel [29ms]
+2024-10-23 02:57:33.679 [info] > git status -z -uall [26ms]
+2024-10-23 02:57:33.679 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+2024-10-23 02:57:33.710 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
+2024-10-23 02:57:33.717 [info] > git rev-parse --show-toplevel [38ms]
+2024-10-23 02:57:33.731 [info] > git check-ignore -v -z --stdin [9ms]
+2024-10-23 02:57:33.731 [info] > git config --local branch.master.vscode-merge-base [15ms]
+2024-10-23 02:57:33.738 [info] > git config --get commit.template [38ms]
+2024-10-23 02:57:33.743 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [6ms]
+2024-10-23 02:57:33.764 [info] > git rev-parse --show-toplevel [35ms]
+2024-10-23 02:57:33.816 [info] > git merge-base refs/heads/master refs/remotes/origin/master [66ms]
+2024-10-23 02:57:33.913 [info] > git rev-parse --show-toplevel [136ms]
+2024-10-23 02:57:33.913 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-23 02:57:33.913 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [143ms]
+2024-10-23 02:57:33.921 [info] > git diff --name-status -z --diff-filter=ADMR ada8bb29fb92ea59d35d5b1c7d6c632b3ef83796...refs/remotes/origin/master [99ms]
+2024-10-23 02:57:33.955 [info] > git status -z -uall [10ms]
+2024-10-23 02:57:33.955 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-10-23 02:57:34.436 [info] > git fetch [1265ms]
+2024-10-23 02:57:34.446 [info] > git config --get commit.template [2ms]
+2024-10-23 02:57:34.455 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-23 02:57:34.473 [info] > git status -z -uall [10ms]
+2024-10-23 02:57:34.473 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-10-23 02:57:35.487 [info] > git config --get commit.template [6ms]
+2024-10-23 02:57:35.488 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-23 02:57:35.500 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-10-23 02:57:35.502 [info] > git status -z -uall [8ms]

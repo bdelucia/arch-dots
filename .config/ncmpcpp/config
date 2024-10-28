@@ -1,0 +1,5 @@
+mpd_host = "localhost"
+mpd_port = "6600"
+mpd_music_dir = "~/Music"
+visualizer_output_name = "MPD Audio Output"
+visualizer_sync_interval = "30"

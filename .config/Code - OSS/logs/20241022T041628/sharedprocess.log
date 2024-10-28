@@ -1,0 +1,14 @@
+2024-10-22 04:17:07.183 [info] Getting Manifest... asvetliakov.vscode-neovim
+2024-10-22 04:17:08.718 [info] Installing extension: asvetliakov.vscode-neovim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/bobbeh/.vscode-oss/extensions/extensions.json","path":"/home/bobbeh/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.94.2","date":"2024-10-11T16:41:53.891Z"}}
+2024-10-22 04:17:10.986 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-10-22 04:17:10.986 [info] Extension signature verification is not done: asvetliakov.vscode-neovim
+2024-10-22 04:17:11.027 [info] Extracted extension to file:///home/bobbeh/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.13-universal: asvetliakov.vscode-neovim
+2024-10-22 04:17:11.030 [info] Renamed to /home/bobbeh/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.13-universal
+2024-10-22 04:17:11.042 [info] Extension installed successfully: asvetliakov.vscode-neovim vscode-userdata:/home/bobbeh/.vscode-oss/extensions/extensions.json
+2024-10-22 04:17:11.111 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bobbeh/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bobbeh/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39253)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39360)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22661)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:15994)
+    at async eh.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84484)
+    at async Kl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66600)

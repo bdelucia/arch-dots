@@ -1,0 +1,184 @@
+2024-10-23 02:57:49.768 [info] Started local extension host with pid 118286.
+2024-10-23 02:57:50.132 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-10-23 02:57:50.135 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, contribIssueReporter, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-10-23 02:57:50.135 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, contribIssueReporter, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-10-23 02:57:50.185 [error] [ms-python.debugpy]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.debugpy
+2024-10-23 02:57:50.185 [error] [ms-python.python]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-10-23 02:57:50.186 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-10-23 02:57:52.592 [info] [perf] Render performance baseline is 42ms
+2024-10-23 02:58:12.189 [info] Started local extension host with pid 118654.
+2024-10-23 02:58:12.455 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-10-23 02:58:12.465 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, contribIssueReporter, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-10-23 02:58:12.465 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, contribIssueReporter, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-10-23 02:58:12.477 [error] [ms-python.debugpy]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.debugpy
+2024-10-23 02:58:12.477 [error] [ms-python.python]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-10-23 02:58:12.477 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-10-23 02:58:14.905 [info] [perf] Render performance baseline is 42ms
+2024-10-23 03:05:23.940 [info] Started local extension host with pid 126410.
+2024-10-23 03:05:24.330 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-10-23 03:05:24.332 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, contribIssueReporter, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-10-23 03:05:24.332 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, contribIssueReporter, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-10-23 03:05:24.363 [error] [ms-python.debugpy]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.debugpy
+2024-10-23 03:05:24.363 [error] [ms-python.python]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-10-23 03:05:24.363 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-10-23 03:05:26.631 [info] [perf] Render performance baseline is 25ms
+2024-10-23 03:17:17.060 [error] Unable to consume quoted string at char 717: Error: Unable to consume quoted string at char 717
+	at r.error (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:22471)
+	at s (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:21144)
+	at d (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:21569)
+	at u (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:14683)
+	at d (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:14817)
+	at /usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:15429
+	at v (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:15535)
+	at j (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:16481)
+	at P (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:16891)
+	at t.getRootNode (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:145499)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:131039)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:129817)
+	at eC.provideCompletionItems (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:136391)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:159492
+	at tr.s (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:150779)
+	at tr.$provideCompletionItems (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:159480)
+	at Zb.S (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+	at Zb.Q (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+	at Zb.M (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:112727)
+	at Zb.L (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+	at gh.value (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+	at T.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at gh.value (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+	at T.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-23 03:17:17.632 [error] Unable to consume quoted string at char 720: Error: Unable to consume quoted string at char 720
+	at r.error (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:22471)
+	at s (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:21144)
+	at d (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:21569)
+	at u (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:14683)
+	at d (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:14817)
+	at /usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:15429
+	at v (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:15535)
+	at j (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:16481)
+	at P (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:16891)
+	at t.getRootNode (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:145499)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:131039)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:129817)
+	at eC.provideCompletionItems (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:136391)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:159492
+	at tr.s (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:150779)
+	at tr.$provideCompletionItems (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:159480)
+	at Zb.S (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+	at Zb.Q (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+	at Zb.M (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:112727)
+	at Zb.L (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+	at gh.value (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+	at T.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at gh.value (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+	at T.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-23 03:17:18.104 [error] Unable to consume quoted string at char 721: Error: Unable to consume quoted string at char 721
+	at r.error (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:22471)
+	at s (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:21144)
+	at d (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:21569)
+	at u (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:14683)
+	at d (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:14817)
+	at /usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:15429
+	at v (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:15535)
+	at j (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:16481)
+	at P (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:16891)
+	at t.getRootNode (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:145499)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:131039)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:129817)
+	at eC.provideCompletionItems (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:136391)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:159492
+	at tr.s (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:150779)
+	at tr.$provideCompletionItems (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:159480)
+	at Zb.S (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+	at Zb.Q (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+	at Zb.M (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:112727)
+	at Zb.L (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+	at gh.value (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+	at T.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at gh.value (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+	at T.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-23 03:17:18.523 [error] Unable to consume quoted string at char 720: Error: Unable to consume quoted string at char 720
+	at r.error (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:22471)
+	at s (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:21144)
+	at d (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:21569)
+	at u (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:14683)
+	at d (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:14817)
+	at /usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:15429
+	at v (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:15535)
+	at j (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:16481)
+	at P (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:16891)
+	at t.getRootNode (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:145499)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:131039)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:129817)
+	at eC.provideCompletionItems (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:136391)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:159492
+	at tr.s (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:150779)
+	at tr.$provideCompletionItems (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:159480)
+	at Zb.S (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+	at Zb.Q (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+	at Zb.M (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:112727)
+	at Zb.L (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+	at gh.value (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+	at T.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at gh.value (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+	at T.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-10-23 03:17:19.864 [error] Unable to consume quoted string at char 725: Error: Unable to consume quoted string at char 725
+	at r.error (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:22471)
+	at s (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:21144)
+	at d (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:21569)
+	at u (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:14683)
+	at d (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:14817)
+	at /usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:15429
+	at v (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:15535)
+	at j (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:16481)
+	at P (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:16891)
+	at t.getRootNode (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:145499)
+	at t.DefaultCompletionItemProvider.provideCompletionItemsInternal (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:131039)
+	at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:129817)
+	at eC.provideCompletionItems (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:136391)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:159492
+	at tr.s (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:150779)
+	at tr.$provideCompletionItems (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:137:159480)
+	at Zb.S (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:113896)
+	at Zb.Q (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:113676)
+	at Zb.M (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:112727)
+	at Zb.L (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:111870)
+	at gh.value (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:110667)
+	at T.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at gh.value (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:174:13273)
+	at T.B (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:174:11562)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)

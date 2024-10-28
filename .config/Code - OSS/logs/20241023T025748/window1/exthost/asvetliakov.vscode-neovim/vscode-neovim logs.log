@@ -1,0 +1,47 @@
+2024-10-23 02:57:51.448 [info] MainController: Starting nvim: /usr/bin/nvim -N --embed --cmd source /home/bobbeh/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.13-universal/runtime/vscode-neovim.vim
+2024-10-23 02:57:51.529 [info] MainController: Nvim info: {
+  logFile: '/home/bobbeh/.local/state/nvim/log',
+  configDir: '/home/bobbeh/.config/nvim',
+  configFile: '/home/bobbeh/.config/nvim/init.lua',
+  nvimVersion: {
+    prerelease: false,
+    minor: 10,
+    major: 0,
+    api_prerelease: false,
+    patch: 2,
+    build: 'v0.10.2',
+    api_compatible: 0,
+    api_level: 12
+  }
+}
+2024-10-23 02:58:32.407 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-css-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 02:59:25.578 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-html-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 03:00:53.841 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-html-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 03:02:53.892 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-css-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 03:05:25.441 [info] MainController: Starting nvim: /usr/bin/nvim -N --embed --cmd source /home/bobbeh/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.13-universal/runtime/vscode-neovim.vim
+2024-10-23 03:05:25.482 [info] MainController: Nvim info: {
+  configDir: '/home/bobbeh/.config/nvim',
+  configFile: '/home/bobbeh/.config/nvim/init.lua',
+  nvimVersion: {
+    minor: 10,
+    patch: 2,
+    build: 'v0.10.2',
+    prerelease: false,
+    api_compatible: 0,
+    api_level: 12,
+    api_prerelease: false,
+    major: 0
+  },
+  logFile: '/home/bobbeh/.local/state/nvim/log'
+}
+2024-10-23 03:10:05.674 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-css-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 03:10:06.887 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-html-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 03:10:14.095 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-css-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 03:11:04.322 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-css-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 03:19:23.298 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-html-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 03:20:59.048 [info] MessagesManager: '29 lines yanked\n'
+2024-10-23 03:21:14.099 [info] MessagesManager: '28 more lines\n'
+2024-10-23 03:21:27.098 [info] MessagesManager: '/usr/share/nvim/runtime/lua/vim/lsp/rpc.lua:800: Spawning language server with cmd: `{ "vscode-css-language-server", "--stdio" }` failed. The language server is either not installed, missing from PATH, or not executable.\n'
+2024-10-23 03:21:48.250 [info] MessagesManager: '7 fewer lines\n'
+2024-10-23 03:24:14.967 [info] MessagesManager: '5 lines yanked\n'
+2024-10-23 03:24:24.730 [info] MessagesManager: '4 more lines\n'

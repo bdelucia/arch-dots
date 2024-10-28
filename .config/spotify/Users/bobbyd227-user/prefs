@@ -1,0 +1,9 @@
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[{\"address\":\"192.168.1.9\",\"app_state\":\"MISSING\",\"created_timestamp\":1730103614,\"device_id\":\"d93c061f-6dec-3dd8-80a3-fa1505d38ae0\",\"dial_location_url\":\"http://192.168.1.9:60000/upnp/dev/d93c061f-6dec-3dd8-80a3-fa1505d38ae0/desc\",\"display_name\":\"Robert's Echo Show\",\"last_seen\":1730103647,\"manufacturer\":\"Amazon\",\"model_name\":\"AEOCH\",\"product_cap\":\"\",\"public_ip\":\"68.104.225.94\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"0cee99a156ea\",\"port\":9,\"retries\":1400}}]"
+audio.equalizer.low_peak_gain_v2=626349397
+audio.equalizer.low_mid_peak_gain_v2=223696213
+audio.equalizer_v2=true
+audio.play_bitrate_enumeration=4
+audio.play_bitrate_non_metered_enumeration=4
+app.player.volume=23258
+audio.equalizer.low_shelf_gain_v2=760567125

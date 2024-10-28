@@ -1,0 +1,15 @@
+2024/10/25-03:48:57.548 d5dc Reusing MANIFEST /home/bobbeh/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/10/25-03:48:57.559 d5dc Recovering log #16
+2024/10/25-03:48:57.574 d5dc Level-0 table #18: started
+2024/10/25-03:48:57.592 d5dc Level-0 table #18: 3275461 bytes OK
+2024/10/25-03:48:57.593 d5dc Delete type=0 #16
+2024/10/25-03:48:57.594 d5dd Compacting 4@0 + 1@1 files
+2024/10/25-03:48:57.624 d5dd Generated table #20@0: 5 keys, 2423669 bytes
+2024/10/25-03:48:57.641 d5dd Generated table #21@0: 30 keys, 842363 bytes
+2024/10/25-03:48:57.641 d5dd Compacted 4@0 + 1@1 files => 3266032 bytes
+2024/10/25-03:48:57.643 d5dd compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/10/25-03:48:57.643 d5dd Delete type=2 #13
+2024/10/25-03:48:57.643 d5dd Delete type=2 #10
+2024/10/25-03:48:57.643 d5dd Delete type=2 #15
+2024/10/25-03:48:57.643 d5dd Delete type=2 #18
+2024/10/25-03:48:57.643 d5dd Delete type=2 #7

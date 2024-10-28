@@ -1,0 +1,159 @@
+2024-10-28T08:48:47.054Z - info: [ui] [AppStore] loading 0 repositories from store
+2024-10-28T08:48:47.088Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-10-28T08:48:47.112Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-10-28T08:48:47.118Z - info: [ui] launching: 3.4.3-linux1 (Linux 6.6.57-1-lts)
+2024-10-28T08:48:47.119Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2024-10-28T08:48:47.121Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-10-28T08:48:47.160Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-10-28T08:48:47.375Z - info: [ui] Opt in reported.
+2024-10-28T08:48:48.093Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-10-28T08:48:48.097Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-10-28T08:48:50.584Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2024-10-28T08:48:50.585Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-10-28T08:48:50.598Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=45b68819-8ca1-446c-9916-95ebf704e116
+2024-10-28T08:48:50.598Z - info: [ui] [SignInStore] account resolved
+2024-10-28T08:48:50.599Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2024-10-28T08:48:53.158Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2024-10-28T08:49:09.712Z - info: [main] Received possible protocol arguments: 3
+2024-10-28T08:49:09.712Z - info: [main] Processing protocol url
+2024-10-28T08:49:09.713Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2024-10-28T08:49:09.821Z - info: [main] Received possible protocol arguments: 2
+2024-10-28T08:49:09.830Z - info: [main] Processing protocol url
+2024-10-28T08:49:10.880Z - info: [ui] [AppStore] adding account bdelucia (Robert (Bobby) DeLucia) to store
+2024-10-28T08:49:10.882Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2024-10-28T08:49:11.023Z - error: [ui] Error adding account 'bdelucia'
+Error: The name is not activatable
+2024-10-28T08:49:11.037Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-10-28T08:49:13.663Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2024-10-28T08:50:33.688Z - info: [ui] [AppStore] loading 0 repositories from store
+2024-10-28T08:50:33.750Z - info: [ui] launching: 3.4.3-linux1 (Linux 6.6.57-1-lts)
+2024-10-28T08:50:33.753Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2024-10-28T08:50:34.354Z - info: [ui] Stats reported.
+2024-10-28T08:52:58.635Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-10-28T08:52:58.642Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=df26651d-7e94-422e-ae99-bc567182fc2b
+2024-10-28T08:52:58.642Z - info: [ui] [SignInStore] account resolved
+2024-10-28T08:53:05.541Z - info: [main] Received possible protocol arguments: 3
+2024-10-28T08:53:05.541Z - info: [main] Processing protocol url
+2024-10-28T08:53:05.661Z - info: [main] Received possible protocol arguments: 2
+2024-10-28T08:53:05.668Z - info: [main] Processing protocol url
+2024-10-28T08:53:06.652Z - info: [ui] [AppStore] adding account bdelucia (Robert (Bobby) DeLucia) to store
+2024-10-28T08:53:06.685Z - error: [ui] Error adding account 'bdelucia'
+Error: The name is not activatable
+2024-10-28T08:53:26.342Z - info: [ui] [AppStore] adding repository at /home/bobbeh/Documents/GitHub/arch-dotfiles to store
+2024-10-28T08:55:13.053Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2024-10-28T08:55:31.272Z - info: [ui] [Timing] Action 'create commit' for 'arch-dotfiles' took 0.758s
+2024-10-28T08:56:24.608Z - info: [ui] [Timing] Action 'create commit' for 'arch-dotfiles' took 0.715s
+2024-10-28T08:59:05.743Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 71.586s)
+2024-10-28T08:59:06.784Z - info: [ui] [Timing] Action 'create commit' for 'arch-dotfiles' took 72.908s
+2024-10-28T08:59:06.846Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2024-10-28T08:59:26.137Z - error: [ui] `git commit -F -` exited with an unexpected code: 1.
+stdout:
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	hyprland-dots/
+	nvim/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+2024-10-28T08:59:26.138Z - info: [ui] [Timing] Action 'create commit' for 'arch-dotfiles' took 0.108s
+2024-10-28T08:59:33.736Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-10-28T08:59:33.740Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=2199a8ee-445f-4fdb-8855-2af0a1aaec27
+2024-10-28T08:59:33.740Z - info: [ui] [SignInStore] account resolved
+2024-10-28T08:59:45.284Z - info: [main] Received possible protocol arguments: 3
+2024-10-28T08:59:45.285Z - info: [main] Processing protocol url
+2024-10-28T08:59:45.395Z - info: [main] Received possible protocol arguments: 2
+2024-10-28T08:59:45.401Z - info: [main] Processing protocol url
+2024-10-28T08:59:46.240Z - info: [ui] [AppStore] adding account bdelucia (Robert (Bobby) DeLucia) to store
+2024-10-28T08:59:46.247Z - error: [ui] Error adding account 'bdelucia'
+Error: The name is not activatable
+2024-10-28T09:02:38.758Z - info: [ui] Executing push: git push origin main:main --progress (took 188.386s)
+2024-10-28T09:02:57.511Z - error: [ui] `git commit -F -` exited with an unexpected code: 1.
+stdout:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	hyprland-dots/
+	nvim/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+2024-10-28T09:02:57.537Z - info: [ui] [Timing] Action 'create commit' for 'arch-dotfiles' took 0.247s
+2024-10-28T09:03:04.598Z - error: [ui] `git commit -F -` exited with an unexpected code: 1.
+stdout:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	hyprland-dots/
+	nvim/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+2024-10-28T09:03:04.599Z - info: [ui] [Timing] Action 'create commit' for 'arch-dotfiles' took 0.210s
+2024-10-28T09:10:56.860Z - info: [ui] [AppStore] loading 1 repositories from store
+2024-10-28T09:10:56.974Z - info: [ui] launching: 3.4.3-linux1 (Linux 6.6.57-1-lts)
+2024-10-28T09:10:56.978Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2024-10-28T09:11:20.254Z - error: [ui] `git config -z --local user.name` exited with an unexpected code: 128.
+stderr:
+fatal: --local can only be used inside a git repository
+
+2024-10-28T09:13:01.077Z - info: [ui] [AppStore] adding repository at /home/bobbeh/Documents/GitHub/arch-dotfiles to store
+2024-10-28T09:13:01.398Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2024-10-28T09:13:14.173Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-10-28T09:13:14.184Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=9b87a769-d695-4ada-be15-da91f4e202d3
+2024-10-28T09:13:14.184Z - info: [ui] [SignInStore] account resolved
+2024-10-28T09:13:21.521Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-10-28T09:13:21.553Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=7b1c9b34-370f-4b15-81d3-8ff9ebcedae1
+2024-10-28T09:13:21.555Z - info: [ui] [SignInStore] account resolved
+2024-10-28T09:13:24.964Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-10-28T09:13:24.995Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=c7a88640-3317-4c80-a320-c13c9e5706d1
+2024-10-28T09:13:24.997Z - info: [ui] [SignInStore] account resolved
+2024-10-28T09:13:25.202Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-10-28T09:13:25.212Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=5d109569-f0b7-4d55-ac26-7ccb2aa726c6
+2024-10-28T09:13:25.212Z - info: [ui] [SignInStore] account resolved
+2024-10-28T09:13:32.122Z - info: [main] Received possible protocol arguments: 3
+2024-10-28T09:13:32.122Z - info: [main] Processing protocol url
+2024-10-28T09:13:32.238Z - info: [main] Received possible protocol arguments: 2
+2024-10-28T09:13:32.244Z - info: [main] Processing protocol url
+2024-10-28T09:13:33.172Z - info: [ui] [AppStore] adding account bdelucia (Robert (Bobby) DeLucia) to store
+2024-10-28T09:13:33.190Z - error: [ui] Error adding account 'bdelucia'
+Error: The name is not activatable
+2024-10-28T09:14:09.028Z - info: [ui] [SignInStore] initializing OAuth flow
+2024-10-28T09:14:09.066Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=4882e9bb-b91c-4e64-a475-d8db61d7bd72
+2024-10-28T09:14:09.068Z - info: [ui] [SignInStore] account resolved
+2024-10-28T09:14:14.162Z - info: [main] Received possible protocol arguments: 3
+2024-10-28T09:14:14.162Z - info: [main] Processing protocol url
+2024-10-28T09:14:14.275Z - info: [main] Received possible protocol arguments: 2
+2024-10-28T09:14:14.285Z - info: [main] Processing protocol url
+2024-10-28T09:14:15.102Z - info: [ui] [AppStore] adding account bdelucia (Robert (Bobby) DeLucia) to store
+2024-10-28T09:14:15.145Z - error: [ui] Error adding account 'bdelucia'
+Error: The name is not activatable
+2024-10-28T09:15:56.636Z - warn: [ui] fetchRepository: 'bdelucia/dot-files' returned a 404
+2024-10-28T09:15:56.734Z - error: [ui] `git -c init.defaultBranch=main clone --recursive --progress -- bdelucia/dot-files /home/bobbeh/Documents/GitHub/dot-files` exited with an unexpected code: 128.
+stderr:
+fatal: repository 'bdelucia/dot-files' does not exist
+
+2024-10-28T09:17:50.002Z - info: [ui] Executing clone: git -c init.defaultBranch=main clone --recursive --progress -- https://github.com/bdelucia/arch-dotfiles.git /home/bobbeh/Documents/GitHub/arch-dotfiles (took 98.280s)
+2024-10-28T09:17:50.049Z - info: [ui] [AppStore] adding repository at /home/bobbeh/Documents/GitHub/arch-dotfiles to store
+2024-10-28T09:17:57.027Z - info: [ui] Executing getChangesFiles: git log 7aa4d7e580966203ab38d9d98a69dfbad826208a -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 5.472s)
+2024-10-28T09:22:16.366Z - error: [ui] `git config -z --local user.name` exited with an unexpected code: 128.
+stderr:
+fatal: --local can only be used inside a git repository
+
+2024-10-28T09:22:21.797Z - info: [ui] [AppStore] loading 1 repositories from store
+2024-10-28T09:22:22.321Z - info: [ui] launching: 3.4.3-linux1 (Linux 6.6.57-1-lts)
+2024-10-28T09:22:22.323Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2024-10-28T09:24:32.168Z - info: [ui] [AppStore] loading 1 repositories from store
+2024-10-28T09:24:32.296Z - info: [ui] launching: 3.4.3-linux1 (Linux 6.6.57-1-lts)
+2024-10-28T09:24:32.298Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2024-10-28T09:25:07.636Z - info: [ui] [AppStore] adding repository at /home/bobbeh/Documents/GitHub/arch-dots to store
