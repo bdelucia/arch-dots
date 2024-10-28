@@ -1,8 +1,0 @@
-2024/10/25-21:29:30.243 179b Reusing MANIFEST /home/bobbeh/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/10/25-21:29:30.255 179b Recovering log #19
-2024/10/25-21:29:30.274 179b Level-0 table #23: started
-2024/10/25-21:29:30.292 179b Level-0 table #23: 3274317 bytes OK
-2024/10/25-21:29:30.294 179b Delete type=0 #19
-2024/10/26-01:09:35.226 179c Level-0 table #26: started
-2024/10/26-01:09:35.295 179c Level-0 table #26: 3262187 bytes OK
-2024/10/26-01:09:35.298 179c Delete type=0 #24
